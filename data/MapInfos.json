@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"最初のマップ","order":1,"parentId":0,"scrollX":1620,"scrollY":901.5},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":1,"scrollX":1620,"scrollY":901.5},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":1,"scrollX":1620,"scrollY":901.5},
+{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":1,"scrollX":1596,"scrollY":1018.5},
+{"id":5,"expanded":false,"name":"ゲームオーバーページ","order":5,"parentId":1,"scrollX":1620,"scrollY":901.5},
+{"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":1,"scrollX":1620,"scrollY":901.5},
+{"id":7,"expanded":false,"name":"廃学校","order":7,"parentId":1,"scrollX":816,"scrollY":800},
+{"id":8,"expanded":false,"name":"フィールド1","order":8,"parentId":1,"scrollX":1596,"scrollY":997.5}
+]
